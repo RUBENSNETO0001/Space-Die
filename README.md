@@ -9,6 +9,7 @@
         <img src="https://img.shields.io/badge/Versão-0.0.2-blue" alt="Version"/>
     </a>
 </p>
+
 # Tecnologias Usadas
 
 <p align="center">
