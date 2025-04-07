@@ -5,10 +5,14 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Status-Em_Andamento-green" alt="Status"/>
     </a>
-    <a href="https://github.com/neuml/rag">
-        <img src="https://img.shields.io/github/last-commit/neuml/rag.svg?style=flat&color=blue" alt="GitHub last commit"/>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Versão-0.0.2-blue" alt="Version"/>
     </a>
-    <a href="https://github.com/neuml/rag/issues">
-        <img src="https://img.shields.io/github/issues/neuml/rag.svg?style=flat&color=success" alt="GitHub issues"/>
+</p>
+# Tecnologias Usadas
+
+<p align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/HTML-orange-CSS-blue-JAVASCRIPT-yellow" alt="Status"/>
     </a>
 </p>
