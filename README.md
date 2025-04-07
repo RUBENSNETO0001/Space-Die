@@ -2,8 +2,8 @@
  Um game desenvolvido por Rubens Neto.
 
 <p align="center">
-    <a href="https://github.com/neuml/rag/status">
-        <img src="https://img.shields.io/github/release/neuml/rag.svg?style=flat&color=success" alt="Version"/>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Status-Em_Andamento-green" alt="Status"/>
     </a>
     <a href="https://github.com/neuml/rag">
         <img src="https://img.shields.io/github/last-commit/neuml/rag.svg?style=flat&color=blue" alt="GitHub last commit"/>
