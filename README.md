@@ -1,2 +1,5 @@
 # Space Die
- Um game desenvolvido apenas em js e html  e css.
+ Um game desenvolvido por Rubens Neto.
+
+# Status
+ Em Desenvolvimento
