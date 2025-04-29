@@ -11,7 +11,16 @@ body{
 }
 /* header */
 /* main */
+main{
+    color: #ffffff;
+}
+.Faze_txt{
+    backdrop-filter: drop-shadow;
+}
 .btn_Fase01{
     border: none;
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
 }
 /* main */
