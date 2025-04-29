@@ -1,0 +1,17 @@
+/* header */
+body{
+    background-color: rgb(131, 131, 131);
+    box-shadow: inset 0px 0px 100px 50px black;
+    height: 100vh;
+}
+#header{
+    background-color: rgba(0, 0, 0, 0.9);
+    display: flex;
+    justify-content: space-between;
+}
+/* header */
+/* main */
+.btn_Fase01{
+    border: none;
+}
+/* main */
