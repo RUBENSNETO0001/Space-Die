@@ -1,26 +1,36 @@
 /* header */
-body{
+body {
     background-color: rgb(131, 131, 131);
     box-shadow: inset 0px 0px 100px 50px black;
     height: 100vh;
 }
-#header{
+
+#header {
     background-color: rgba(0, 0, 0, 0.9);
     display: flex;
     justify-content: space-between;
-}
-/* header */
-/* main */
-main{
     color: #ffffff;
 }
-.Faze_txt{
+
+/* header */
+/* main */
+main {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.Faze_txt {
     backdrop-filter: drop-shadow;
 }
-.btn_Fase01{
+
+.btn_Fase01 {
     border: none;
     height: 50px;
     width: 50px;
     border-radius: 100px;
 }
+
 /* main */
